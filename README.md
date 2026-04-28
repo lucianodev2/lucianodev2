@@ -40,11 +40,11 @@ const luciano = {
 
 <div align="center">
 
-| Curso | Instituição |
-|-------|-------------|
-| 🖥️ Técnico em Informática para Internet | IFMA - Instituto Federal do Maranhão |
-| 💻 Sistemas de Informação | Centro Universitário Santa Terezinha - CEST |
-| 📊 Análise e Desenvolvimento de Sistemas | UNIFATECIE |
+| Curso | Instituição | Status |
+|-------|-------------|--------|
+| 🖥️ Técnico em Informática para Internet | IFMA - Instituto Federal do Maranhão | ✅ Concluído |
+| 💻 Sistemas de Informação | Centro Universitário Santa Terezinha - CEST | 📚 4º Período |
+| 📊 Análise e Desenvolvimento de Sistemas | UNIFATECIE | 📚 2º Período |
 
 </div>
 
